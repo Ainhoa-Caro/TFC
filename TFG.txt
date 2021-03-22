@@ -1,0 +1,8 @@
+Paúl Fernando Serrano Díaz19:41
+1.- Que problema queréis y en que dominio de la realidad
+2.- Elegir compañeros (2-4 personas)
+Paúl Fernando Serrano Díaz19:42
+3.- Web - Móvil - Escritorio- Servidor-BBDD
+Paúl Fernando Serrano Díaz19:44
+4.- Arquitectura (Monolítica - Microservicios)
+5.- Tecnologías

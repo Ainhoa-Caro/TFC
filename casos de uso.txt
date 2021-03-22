@@ -1,0 +1,22 @@
+Posibles casos de uso  
+-numero privado
+  (pasar un id que se crea cuando te registras)
+-foto con autodestruccion
+  
+-silenciador completo de grupo
+  
+-¿estados?
+  
+-grupos
+  
+-compartir fotos, documentos ubicacion contactos
+  
+-comandos para juegos (Tipo bots de discord) y/o espacio de juegos en pareja 
+	·Tres en raya
+	·BlackJack
+	·Cara o cruz
+	·numero aleatorio
+
+	·cronometro conjunto (me refiero tipo al cronometro del ajedrez,
+		 que cuando uno le da comienza a correr el cronometro del contrario)
+-crear un qr para pasar id
